@@ -1,2 +1,4 @@
 mlenv/
 .ipynb_checkpoints/
+application_test.csv
+application_train.csv
