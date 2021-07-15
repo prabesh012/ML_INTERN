@@ -2,3 +2,4 @@ mlenv/
 .ipynb_checkpoints/
 *.csv
 ._EDA.ipynb
+.vscode
