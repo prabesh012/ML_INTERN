@@ -3,3 +3,4 @@ mlenv/
 *.csv
 ._EDA.ipynb
 .vscode
+Data
